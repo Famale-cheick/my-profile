@@ -1,0 +1,47 @@
+/* colors and fonts*/
+body{
+background: rgb(230;230;230);
+color: rgb(50;50;50);
+font-family: 'Roboto Slab', serif;
+font-size: 17px
+}
+
+h1 {
+	color: red;
+	font-family: 'Merriweather', serif;
+	font-weight: 900;
+	letter-spacing: 10 px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: rgb(100;100;100);
+	font-family: Courier;
+	font-size: 32px;
+	font-weight: lighter;
+	font-weight: 700;
+}
+
+a{
+	text-decoration:  none;
+	color: purple;
+	font-weight: bolder;
+	font-weight: 800;
+	font-size: 17px;
+}
+
+a:hover {
+
+	color: blue;
+}
+
+div {
+	background: black;
+	border: 2px solid black;
+	margin: 18px;
+}
+
+
+
+
